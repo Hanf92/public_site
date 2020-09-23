@@ -6,3 +6,5 @@ My site: fabio.marcoccia.net
 | innerText   | Text to render inside        |  <input type="checkbox" disabled checked />      | String |
 | onClick     | Callback                     |  <input type="checkbox" disabled checked />      | Function |
 | isLoading   | Show loading indicator       |  <input type="checkbox" disabled />      | Boolean |
+
+<p>Ciao</p>
