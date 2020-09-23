@@ -7,4 +7,4 @@ My site: fabio.marcoccia.net
 | onClick     | Callback                     |  <input type="checkbox" disabled checked />      | Function |
 | isLoading   | Show loading indicator       |  <input type="checkbox" disabled />      | Boolean |
 
-<p>Ciao</p>
+<h1>Ciao</h1>
